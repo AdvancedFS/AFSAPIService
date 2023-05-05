@@ -1,0 +1,13 @@
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/AFSAPIService
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/AFSAPIService.dll
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/AFSAPIService.deps.json
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/AFSAPIService.runtimeconfig.json
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/AFSAPIService.pdb
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/System.Data.SqlClient.dll
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/runtimes/win-arm64/native/sni.dll
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/runtimes/win-x64/native/sni.dll
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/runtimes/win-x86/native/sni.dll
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/yogi/Documents/Advanced/Hackathon/Project /AFSAPIService/AFSAPIService/obj/Release/net7.0/PubTmp/Out/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
