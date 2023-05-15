@@ -11,11 +11,15 @@
   <ItemGroup>
     <None Remove="Model\" />
     <None Remove="System.Data.SqlClient" />
+    <None Remove="Swashbuckle.AspNetCore" />
+    <None Remove="Repository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
+    <Folder Include="Repository\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 </Project>

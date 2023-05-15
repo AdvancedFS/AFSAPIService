@@ -1,4 +1,6 @@
 ﻿using System;
+using AFSAPIService.Repository;
+
 namespace AFSAPIService
 {
 	public class Startup
@@ -12,6 +14,9 @@ namespace AFSAPIService
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSingleton<IProjectRepository, ProjectRepository>();
+            services.AddCors();
+
             services.AddControllers();
         }
     }

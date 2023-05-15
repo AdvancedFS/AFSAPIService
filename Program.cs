@@ -1,8 +1,16 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using AFSAPIService.Repository;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+
+builder.Services.AddScoped<IRatingRepository, RatingRepository>();
+
+builder.Services.AddScoped<IReportIssueRepository, ReportIssueRepository>();
 
 var app = builder.Build();
 
